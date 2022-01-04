@@ -12,6 +12,10 @@
 /.next/
 /out/
 
+# secrets
+.secret
+.infuraid
+
 # production
 /build
 
